@@ -1,0 +1,31 @@
+body{
+    background:#f9f9f9;
+}
+
+#chatWindow{
+}
+
+#mainWrapper{
+    display:none;
+}
+
+#chatWrapper{
+
+}
+
+#userWrapper{
+    display: none;
+}
+
+#namesWrapper{
+
+}
+
+.img-background{
+    background-image: url("../images/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 1003px;
+    max-width: 564px;
+    max-height: 1003px;
+}
